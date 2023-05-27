@@ -44,7 +44,6 @@ or
     
     
 ## Sample Results
-Train MAE:  0.21
-Test MAE:  0.49
+Train MAE:  0.21, Test MAE:  0.49
 
 ![image](https://github.com/Nouran-Muhammad/Automatic-short-answers-scoring-using-ML/assets/61350907/32228d3b-1697-4d62-9240-2d213d287e05)
